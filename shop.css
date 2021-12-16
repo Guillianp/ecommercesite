@@ -75,6 +75,7 @@ body {
 
 .items {
     height: 250px;
+    width: 175px;
 }
 
 .name {
@@ -82,6 +83,7 @@ body {
     font-family: "raleway";
     font-weight: bold;
 }
+
 
 /* add to cart button */
 .button {
