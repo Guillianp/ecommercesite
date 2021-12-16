@@ -150,4 +150,7 @@ i.fa-circle-thin {
     font-weight: bolder;
 }
 
-@media (min-width: 768) and (max-width: 1024px)
+/* Media query's */
+@media only screen and (max-width: 800px) {
+
+}
