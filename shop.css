@@ -48,7 +48,6 @@ nav {
 
 /* Background and Body */
 body {
-    width: 80%;
     margin:50px auto;
     margin-top: 0%;
     margin-bottom: 0%;
@@ -71,6 +70,10 @@ body {
 .products {
     display: flex;
     flex-wrap: wrap;
+    width: 80%;
+    margin:50px auto;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
 
 .items {
@@ -144,6 +147,6 @@ i.fa-circle-thin {
     color: black;
     font-family: 'raleway';
     font-size: 1.5vw;
-    font-weight: 330;
+    font-weight: bolder;
 }
 

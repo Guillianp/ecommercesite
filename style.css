@@ -148,12 +148,12 @@ i.fa-circle-thin {
   paint-order: stroke;
 }
 
-p {
+.footer1 {
   display: flex;
   align-items: center;
   color: black;
   font-family: 'raleway';
+  font-weight: bolder;
   font-size: 1.5vw;
-  font-weight: 330;
 }
 
