@@ -65,6 +65,7 @@ body {
     width: 23%;
     text-align: center;
     border: 1px black solid;
+    
 }
 
 .products {
@@ -74,11 +75,13 @@ body {
     margin:50px auto;
     margin-top: 0%;
     margin-bottom: 0%;
+    justify-content: center;
 }
 
 .items {
     height: 250px;
     width: 175px;
+    
 }
 
 .name {
@@ -152,5 +155,8 @@ i.fa-circle-thin {
 
 /* Media query's */
 @media only screen and (max-width: 800px) {
-
+.items{
+    height: 150px;
+    width: 100px;
+}
 }
